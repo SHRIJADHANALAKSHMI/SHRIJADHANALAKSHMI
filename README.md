@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Janesh Krish</h1>
-<h3 align="center">Full Stack Developer | Backend Focused | DSA Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm SHRIJA DHANALAKSHMI </h1>
+<h3 align="center">Full Stack Developer | Backend Focused| Frontend Focused | DSA Enthusiast</h3>
 
 ---
 

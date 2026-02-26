@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 
 ## 🎯 Career Focus
 
-- 🔹 Backend Engineering  
-- 🔹 System Design  
-- 🔹 High Performance APIs  
-- 🔹 Competitive Programming  
+🔹 Backend Engineering  
+🔹 Frontend Engineering
+🔹 System Design  
+🔹 High Performance APIs  
+🔹 Competitive Programming  
 
 ---
 
@@ -68,21 +69,21 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janeshkrish&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janeshkrish&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALASKHMI&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=janeshkrish&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SHRIJADHANALAKSHMI&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=janeshkrish&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHRIJADHANALAKSHMI&theme=tokyo-night)
 
 ---
 
@@ -100,18 +101,14 @@ Here are some ideas to get you started:
 
 ## 💼 Open To
 
-- 🚀 Backend Internship Roles  
+- 🚀 frontend Intern and  Backend Internship Roles   
 - 🤝 Collaboration on Meaningful Projects  
 - 📚 DSA Practice Groups  
 - 🎤 Tech Discussions  
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/shrija-dhanalakshmi-s-m-406a052b6/
-- 📧 Email: shrija
-  ## 🌐 Connect With Me
+ ## 🌐 Connect With Me
 
 <p align="left">
   <a href=" https://www.linkedin.com/in/shrija-dhanalakshmi-s-m-406a052b6/" target="_blank">

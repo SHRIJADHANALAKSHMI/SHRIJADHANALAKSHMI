@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech Information Technology  
+- 🎓 B.Tech Information Technology  and BSC Data Science (IIT MADRAS)
 - 💡 Passionate about Scalable Backend Systems & Clean UI Design  
 - 🧠 Daily Data Structures & Algorithms Practice  
 - 🚀 Building real-world, problem-solving applications  
@@ -37,13 +37,6 @@ React • HTML • CSS • JavaScript
 ### ⚙️ Tools
 Git • GitHub • VS Code • Postman • Render  
 
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALAKSHMI&layout=compact&theme=tokyonight)
 
 ---
 

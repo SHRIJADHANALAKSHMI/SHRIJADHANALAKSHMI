@@ -2,10 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Shrija+Dhanalakshmi;Full+Stack+Developer;Backend+Engineer;Frontend+Developer;DSA+Practitioner;IIT+Madras+Data+Science+Student" />
 </p>
 
-
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 B.Tech Information Technology  
 🎓 BSc Data Science — IIT Madras  
@@ -17,7 +16,7 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
@@ -28,7 +27,7 @@
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=javascript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### Database
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -36,68 +35,76 @@
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Vscode](https://skillicons.dev/icons?i=vscode)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img src="https://streak-stats.demolab.com?user=SHRIJADHANALAKSHMI&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHRIJADHANALAKSHMI&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALAKSHMI&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHRIJADHANALAKSHMI&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHRIJADHANALAKSHMI&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHRIJADHANALAKSHMI&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHRIJADHANALAKSHMI&theme=tokyonight" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRIJADHANALAKSHMI&theme=tokyo-night"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=SHRIJADHANALAKSHMI&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALAKSHMI&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
-# 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALAKSHMI&layout=compact&theme=tokyonight"/>
-
----
-
-# 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <img src="https://leetcard.jacoblin.cool/Shrija16?theme=dark&font=Baloo&ext=heatmap"/>
 
 ---
 
-# 🔥 Coding Activity
+## 🔥 Coding Activity
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-# 👀 Profile Visitors
+## 👀 Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=SHRIJADHANALAKSHMI&label=Profile%20Views&color=blue&style=for-the-badge" />
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 

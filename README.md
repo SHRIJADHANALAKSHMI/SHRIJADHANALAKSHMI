@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shrija Dhanalakshmi</h1>
-
-<h3 align="center">
-Full Stack Developer | Backend & Frontend | DSA Enthusiast
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Frontend+Developer;DSA+Practitioner;IIT+Madras+Data+Science+Student&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Shrija+Dhanalakshmi;Full+Stack+Developer;Backend+Engineer;Frontend+Developer;DSA+Practitioner;IIT+Madras+Data+Science+Student" />
 </p>
+
 
 ---
 
@@ -50,11 +45,13 @@ Full Stack Developer | Backend & Frontend | DSA Enthusiast
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SHRIJADHANALAKSHMI&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRIJADHANALAKSHMI&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALAKSHMI&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

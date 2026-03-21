@@ -94,13 +94,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=SHRIJADHANALAKSHMI&label=Profile%20Views&color=blue&style=for-the-badge" />
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 

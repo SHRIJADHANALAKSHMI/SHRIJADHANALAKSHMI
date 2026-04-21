@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 🎓 B.Tech Information Technology  
-🎓 BSc Data Science — IIT Madras  
+🎓 BSc Data Science — IIT Madras . 
 
 💡 Passionate about scalable backend systems  
 🧠 Daily Data Structures & Algorithms practice  

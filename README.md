@@ -354,7 +354,6 @@ React • Express • MongoDB
 | Platform | Profile |
 |----------|---------|
 | 🟠 LeetCode | https://leetcode.com/u/Shrija16/ |
-| 🟢 HackerRank | https://www.hackerrank.com/shrijasm |
 | ⚫ GitHub | https://github.com/SHRIJADHANALAKSHMI |
 
 </div>

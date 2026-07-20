@@ -36,7 +36,7 @@
 
 ---
 
-# 💫 About Me
+# 💫 About Me :
 
 <img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
@@ -50,7 +50,7 @@
 
 🧠 Strong foundation in **Java, Python, JavaScript, SQL, REST APIs, React, Node.js, Express.js, MongoDB, and MySQL**
 
-🌱 Currently exploring:
+🌱 Currently exploring :
 
 - Artificial Intelligence
 - Machine Learning
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-## 💻 Languages
+## 💻 Languages :
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js" />
 

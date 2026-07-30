@@ -362,21 +362,7 @@ React • Express • MongoDB
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHRIJADHANALAKSHMI&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=SHRIJADHANALAKSHMI&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRIJADHANALAKSHMI&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHRIJADHANALAKSHMI&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
 
 ---
 
